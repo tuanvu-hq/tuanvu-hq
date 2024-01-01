@@ -1,4 +1,6 @@
-<img src="/assets//svg/cv_en.svg" alt="CV" />
+<div style="">
+    <img src="/assets//svg/cv_en.svg" alt="CV" />
+</div>
 
 <!-- 
 # Hi there 👋
