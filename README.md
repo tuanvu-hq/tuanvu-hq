@@ -1,3 +1,6 @@
+<img src="/assets//svg/cv_en.svg" alt="CV" />
+
+<!-- 
 # Hi there 👋
 
 You can find my portfolio [here](https://tvhq.vercel.app/).
@@ -26,6 +29,7 @@ Other technologies & tools:
 - Ruby, Ruby on Rails, Java, JSF, Java EE, Python
 - Git
 - VS Code, Affinity Designer, Blender
+-->
 
 <!--
 **tuanvu-hq/tuanvu-hq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
