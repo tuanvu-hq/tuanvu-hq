@@ -1,5 +1,5 @@
-<div style="">
-    <img src="/assets//svg/cv_en.svg" alt="CV" />
+<div style="border: 1px solid black; display:grid;">
+    <img src="/assets/svg/english_cv.svg" alt="CV" />
 </div>
 
 <!-- 
