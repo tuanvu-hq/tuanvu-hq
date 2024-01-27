@@ -1,6 +1,26 @@
-<div style="border: 1px solid black; display:grid;">
-    <img src="/assets/svg/english_cv.svg" alt="CV" />
-</div>
+
+# Moikka, I'm Tuan 👋
+
+- [LinkedIn](https://www.linkedin.com/in/tvhq-connect) | [Portfolio](https://tvhq.vercel.app/)
+- [Contact me](https://tvhq.vercel.app/#section_email)
+
+---
+
+I'm a self-taught web developer from the lovely Czech Republic. I've enjoyed creating some cool personal web apps along the way.
+
+My goal is to build visually appealing, user-friendly, and reliable web applications that cater to people's specific needs.
+
+## Stack
+
+```ts
+const technologies_and_tools = {
+    main: ['HTML5', 'CSS3', 'TypeScript', 'Angular', 'SvelteKit', 'Tailwind CSS'],
+    utilized_during_studies: ['Ruby', 'Ruby on Rails', 'Java', 'Java EE'],
+    self_study: ['React', 'Next.js', 'Zustand', 'Solid.js', 'Analog.js', 'RxJS', 'Node.js', 'Express.js', 'NestJS', 'Prisma', 'PostgreSQL', 'Puppeteer', 'React Native', 'Ionic', 'Capacitor.js'],
+    interest: ['Flutter', 'Spring Boot', 'PyTorch', 'Blender'],
+    tools: ['Figma', 'Affinity Designer', 'VC Code', 'IntelliJ IDEA', 'Obsidian']
+}
+```
 
 <!-- 
 # Hi there 👋
