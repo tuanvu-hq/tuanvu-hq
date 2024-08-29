@@ -14,11 +14,10 @@ My goal is to build visually appealing, user-friendly, and reliable web applicat
 
 ```ts
 const technologies_and_tools = {
-    main: ['HTML5', 'CSS3', 'TypeScript', 'Angular', 'SvelteKit', 'Tailwind CSS'],
-    utilized_during_studies: ['Ruby', 'Ruby on Rails', 'Java', 'Java EE'],
-    self_study: ['React', 'Next.js', 'Zustand', 'Solid.js', 'Analog.js', 'RxJS', 'Node.js', 'Express.js', 'NestJS', 'Prisma', 'PostgreSQL', 'Puppeteer', 'React Native', 'Ionic', 'Capacitor.js'],
-    interest: ['Flutter', 'Spring Boot', 'PyTorch', 'Blender'],
-    tools: ['Figma', 'Affinity Designer', 'VC Code', 'IntelliJ IDEA', 'Obsidian']
+    open_to_work_with: ["React', "Next.js", "Solid.js", "SvelteKit", "Angular", "Vue", "Nuxt", "Spring Boot", "Node.js", "NestJS", "Go"],
+    utilized_during_studies: ["Ruby", "Ruby on Rails", "Java", "Java EE"],
+    personal_stack: ["TailwindCSS", "TypeScript", "Vue", "Nuxt", "Go"],
+    tools: ["Affinity Designer", "Figma", "Obsidian", "VS Code", "IntelliJ", "Github", "Gitlab"]
 }
 ```
 
