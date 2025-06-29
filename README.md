@@ -16,12 +16,12 @@ contribute and grow in a dynamic environment.
 
 ---
 
-- **Open to work with Front-end frameworks & libraries**: React, Next.js, Angular, Analog.js, Vue, Nuxt.js, SvelteKit, Solid.js, SolidStart
+- **Open to work with Front-end frameworks & libraries**: React, Next.js, Angular, Vue, Nuxt.js
 - **Open to work with Back-end frameworks & libraries**: Node.js, Express.js, NestJS, Nitro.js
 - **Open to work with framework & libraries utilizing**: Java, Kotlin, Ruby, Go, Rust
-- **Personal stack**: TypeScript, Vue, Nuxt, Rust
+- **Personal stack**: TypeScript, React, Hono, Go
 - **Technologies utilized during study**: Java, Java EE, Ruby, Ruby on Rails
-- **Tools**: VS Code, NeoVim, TablePlus, DBeaver, pgAdmin, Postman, Obsidian, Affinity Designer
+- **Tools**: VS Code, NeoVim, Postman, Obsidian, Affinity Designer
 
 ---
 
