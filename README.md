@@ -5,6 +5,7 @@
 
 ## Projects
 
+- [Learning React + Hono](https://github.com/tuanvu-hq/learning-react-hono-public)
 - [Music Tag Manager Demo](https://github.com/tuanvu-hq/music-tag-manager-demo)
 
 ## About
