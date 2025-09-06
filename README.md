@@ -7,6 +7,10 @@ Explore my work and connect with me through the following platforms:
 - 🌐 [Portfolio](https://tvhq.dev) - Visit my personal portfolio to see my projects and skills in action.
 - 💼 [LinkedIn](https://www.linkedin.com/in/tvhq-connect) - Connect with me professionally and view my career journey.
 
+## My Projects
+
+🚀 Discover my open-source projects and contributions on GitHub: [tuanvu-hq Repositories](https://github.com/tuanvu-hq?tab=repositories)
+
 </br>
 
 <p>
