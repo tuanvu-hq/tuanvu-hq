@@ -1,7 +1,13 @@
 # Moikka, I'm Tuan 👋
 
-- [Portfolio](https://tvhq.dev)
-- [LinkedIn](https://www.linkedin.com/in/tvhq-connect)
+## Connect with Me
+
+Explore my work and connect with me through the following platforms:
+
+- 🌐 [Portfolio](https://tvhq.dev) - Visit my personal portfolio to see my projects and skills in action.
+- 💼 [LinkedIn](https://www.linkedin.com/in/tvhq-connect) - Connect with me professionally and view my career journey.
+
+</br>
 
 <p>
   <!-- Frontend Frameworks -->
