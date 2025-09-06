@@ -9,7 +9,7 @@ Explore my work and connect with me through the following platforms:
 
 ## My Projects
 
-🚀 Discover my open-source projects and contributions on GitHub: [tuanvu-hq Repositories](https://github.com/tuanvu-hq?tab=repositories)
+🚀 Discover my open-source projects and contributions on GitHub: [repositories](https://github.com/tuanvu-hq?tab=repositories)
 
 </br>
 
