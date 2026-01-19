@@ -16,22 +16,22 @@ Explore my work and connect with me through the following platforms:
 <p>
   <!-- Frontend Frameworks -->
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <!-- <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> -->
+  <!-- <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> -->
   <!-- Languages and Tools -->
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white" />
   <!-- Backend Frameworks -->
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <!-- <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> -->
   <img alt="Hono" src="https://img.shields.io/badge/-Hono-FF4F5A?style=flat-square&logo=hono&logoColor=white" />
   <img alt="axum" src="https://img.shields.io/badge/-axum-000000?style=flat-square&logo=rust&logoColor=white" />
   <!-- Styling -->
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <!-- <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" /> -->
   <!-- DevOps and Version Control -->
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <!-- <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> -->
+  <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> -->
   <!-- Data Processing -->
-  <img alt="Polars" src="https://img.shields.io/badge/-Polars-F7B93E?style=flat-square&logo=polars&logoColor=black" />
+  <!-- <img alt="Polars" src="https://img.shields.io/badge/-Polars-F7B93E?style=flat-square&logo=polars&logoColor=black" /> -->
 </p>
 
 <!-- 
