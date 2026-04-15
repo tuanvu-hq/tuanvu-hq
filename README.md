@@ -1,17 +1,22 @@
 # Moikka, I'm Tuan 👋
 
-## Connect with Me
+## 🚀 Featured Project
 
-Explore my work and connect with me through the following platforms:
+### [Vocabulary Farm](https://vocabulary-farm-demo.tvhq.dev)
+An interactive way to grow your language skills. Check out the live demo below:
+- 🌐 [Vocabulary Farm Demo](https://vocabulary-farm-demo.tvhq.dev)
 
-- 🌐 [Portfolio](https://tvhq.dev) - Visit my personal portfolio to see my projects and skills in action.
-- 💼 [LinkedIn](https://www.linkedin.com/in/tvhq-connect) - Connect with me professionally and view my career journey.
+## 🛠 My Projects
+Discover my open-source work and latest contributions:
+- 📂 [View GitHub Repositories](https://github.com/tuanvu-hq?tab=repositories)
 
-## My Projects
+## 🤝 Connect with Me
+I'm always open to discussing new projects and professional opportunities:
 
-🚀 Discover my open-source projects and contributions on GitHub: [repositories](https://github.com/tuanvu-hq?tab=repositories)
+- 🌐 **Portfolio:** [tvhq.dev](https://tvhq.dev) – A deeper look at my skills and journey.
+- 💼 **LinkedIn:** [tuanvu-hq](https://www.linkedin.com/in/tvhq-connect) – Let's connect professionally.
 
-</br>
+<br />
 
 <p>
   <!-- Frontend Frameworks -->
