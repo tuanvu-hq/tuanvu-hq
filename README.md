@@ -19,7 +19,7 @@ Explore my work and connect with me through the following platforms:
   <!-- Languages and Tools -->
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp&logoColor=white" />
   <!-- Backend Frameworks -->
   <img alt="Hono" src="https://img.shields.io/badge/-Hono-FF4F5A?style=flat-square&logo=hono&logoColor=white" />
   <img alt="axum" src="https://img.shields.io/badge/-axum-000000?style=flat-square&logo=rust&logoColor=white" />
