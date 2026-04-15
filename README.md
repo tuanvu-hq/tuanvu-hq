@@ -4,7 +4,7 @@
 
 ### [Vocabulary Farm](https://vocabulary-farm-demo.tvhq.dev)
 An interactive way to grow your language skills. Check out the live demo below:
-- 🌐 [Vocabulary Farm Demo](https://vocabulary-farm-demo.tvhq.dev)
+- 🌐 **Live Demo:** [vocabulary-farm-demo.tvhq.dev](https://vocabulary-farm-demo.tvhq.dev)
 
 ## 🛠 My Projects
 Discover my open-source work and latest contributions:
