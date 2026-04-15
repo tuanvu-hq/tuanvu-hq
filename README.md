@@ -14,7 +14,7 @@ Discover my open-source work and latest contributions:
 I'm always open to discussing new projects and professional opportunities:
 
 - 🌐 **Portfolio:** [tvhq.dev](https://tvhq.dev) – A deeper look at my skills and journey.
-- 💼 **LinkedIn:** [tuanvu-hq](https://www.linkedin.com/in/tvhq-connect) – Let's connect professionally.
+- 💼 **LinkedIn:** [linkedin.com/in/tvhq-connect](https://www.linkedin.com/in/tvhq-connect) – Let's connect professionally.
 
 <br />
 
