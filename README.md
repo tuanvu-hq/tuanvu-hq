@@ -10,7 +10,7 @@ An interactive way to grow your language skills. Check out the live demo below:
 Discover my open-source work and latest contributions:
 - 📂 [View GitHub Repositories](https://github.com/tuanvu-hq?tab=repositories)
 
-### 🛠 Featured Projects
+### 🛠 Learning Projects
 - 📂 [learning-better-auth-9843a734](https://github.com/tuanvu-hq/learning-better-auth-9843a734)
 
 ## 🤝 Connect with Me
