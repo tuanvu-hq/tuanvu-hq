@@ -7,7 +7,7 @@ An interactive way to grow your language skills. Check out the live demo below:
 - 🌐 **Live Demo:** [vocabulary-farm-demo.tvhq.dev](https://vocabulary-farm-demo.tvhq.dev)
 
 ## 🛠 My Projects
-Discover my open-source work and latest contributions:
+Discover my other projects:
 - 📂 [View GitHub Repositories](https://github.com/tuanvu-hq?tab=repositories)
 
 ### 🛠 Learning Projects
