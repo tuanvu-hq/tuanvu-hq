@@ -12,6 +12,7 @@ Discover my other projects:
 
 ### 🛠 Learning Projects
 - 📂 [learning-better-auth-9843a734](https://github.com/tuanvu-hq/learning-better-auth-9843a734)
+- 📂 [learning-dot-net-63af31dc](https://github.com/tuanvu-hq/learning-dot-net-63af31dc)
 
 ## 🤝 Connect with Me
 I'm always open to discussing new projects and professional opportunities:
